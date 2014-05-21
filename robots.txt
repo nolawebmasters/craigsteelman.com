@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /logs
+Disallow: /javascript
+Disallow: /traffic
+Disallow: /inc
+Disallow: /includes
+Disallow: /workup
+Disallow: /work-up
