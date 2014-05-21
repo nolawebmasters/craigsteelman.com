@@ -1,0 +1,64 @@
+p{
+clear:both;
+color:#000000;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+margin-left:10px;
+}
+
+
+.links1 {
+
+color: #FFFFFF;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 18px;
+}
+
+.links1:link {
+text-decoration: none;
+color: #FFFFFF;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 18px;
+}
+
+.links1:hover {
+text-decoration:underline;
+color: #FFFFFF;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 18px;
+}
+
+.links1:visited {
+text-decoration: none;
+}
+
+
+.links2 {
+
+color: #FFFFFF;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 14px;
+}
+
+.links2:link {
+text-decoration: none;
+color: #FFFFFF;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 16px;
+}
+
+.links2:hover {
+text-decoration:underline;
+color: #FFFFFF;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 16px;
+}
+
+.links2:visited{
+text-decoration:none;}
+
+.copyright{
+color: #FFFFFF;
+font-family: "Times New Roman", Times, serif;
+font-size: 10px;
+}
