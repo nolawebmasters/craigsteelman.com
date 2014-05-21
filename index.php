@@ -4,8 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Web Developer - Austin, Texas</title>
 
-<meta name="description" content="Austin, Texas Website Developer"> 
-<meta name="keywords" content="PHP Programmer, Help, Web Design, E-commerce, Networking, Security, Software, ATX">
+<meta name="description" content="Austin Texas Website Developer"> 
+<meta name="keywords" content="PHP Programmer, Web Design, E-commerce, Web Applications, Database Apps, Software, ATX">
 <meta name="Author" content="Craig Steelman S. Texas Computer Consultant">
 
 
@@ -132,7 +132,7 @@ $(function(){
         
         		<div>
 				<h3><a href="#">Accurate Credit Bureau</a></h3>
-				<div>Complete website re-design and SEO support for a high traffic client. Custom Application and Integration of online signed documents provided by a cloud solution. On-going SEO and Social Media support.   <a href="https://www.accuratecredit.com/" target="_blank"> Visit Website</a><br />
+				<div>Complete website re-design and SEO support for a high traffic client. Custom Application and Integration of online signed documents provided by a cloud solution. On-going SEO and Social Media support. XML Integration with 3rd party software. Cusotm PHP e-commerce application.  <a href="https://www.accuratecredit.com/" target="_blank"> Visit Website</a><br />
 			</div>
             </div>
         
